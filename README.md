@@ -2,6 +2,10 @@
 
 A platform for collecting system information (Operating System, Battery, Processor, etc.) both locally and remotely.
 
+## Contributers
+
+- [@ZhRaF](https://github.com/ZhRaF) 
+
 ## Overview
 
 This project implements a desktop application that enables users to gather comprehensive system information through two modes:
